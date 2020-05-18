@@ -141,7 +141,6 @@ public class LabyrinthImpl implements Labyrinth {
         return possibleMoves;
     }
 
-
     public void setPlayerPosition(Coordinate c) {
         this.playerPosition = c;
     }
